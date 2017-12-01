@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
+    <_PublishTargetUrl>D:\Work\agriun-gis\webservice\calc\WebService\bin\Release\PublishOutput</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/SuperMap.Analyst.SpatialAnalyst.dll">
+      <publishTime>06/28/2017 23:13:34</publishTime>
+    </File>
+    <File Include="bin/SuperMap.Data.Conversion.dll">
+      <publishTime>06/28/2017 23:14:24</publishTime>
+    </File>
+    <File Include="bin/SuperMap.Data.dll">
+      <publishTime>06/28/2017 23:13:34</publishTime>
+    </File>
+    <File Include="bin/SuperMap.Mapping.dll">
+      <publishTime>06/28/2017 23:14:24</publishTime>
+    </File>
+    <File Include="bin/WebService.dll">
+      <publishTime>08/14/2017 19:53:23</publishTime>
+    </File>
+    <File Include="bin/WebService.pdb">
+      <publishTime>06/03/2017 16:25:13</publishTime>
+    </File>
+    <File Include="Service1.asmx">
+      <publishTime>06/28/2017 23:12:54</publishTime>
+    </File>
+    <File Include="template/test.udb">
+      <publishTime>07/12/2017 22:16:49</publishTime>
+    </File>
+    <File Include="template/test.udd">
+      <publishTime>07/24/2017 20:12:03</publishTime>
+    </File>
+    <File Include="template/testG.smwu">
+      <publishTime>07/24/2017 20:12:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/12/2017 22:19:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
